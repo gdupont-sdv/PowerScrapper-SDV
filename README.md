@@ -29,7 +29,7 @@ Editez le script pour changer la variable $url_rss_feed pour mettre le flux RSS 
 
 ![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/bbb0dae1-2b4c-48d5-b9be-315b71cc47b2)
 
-![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/e4bc96a9-16ea-4979-a8ff-658319526a6b)
+![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/cefbddf6-4822-4cf0-959c-9b84e663b5bf)
 
 
 
