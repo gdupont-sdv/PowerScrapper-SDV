@@ -8,6 +8,7 @@ Prérequis :
 Optionnel
 - Un serveur SMTP pour alerter par mail
 
+---
 
 # Installation : 
 
@@ -15,7 +16,8 @@ Optionnel
 
 ![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/247a24b5-3110-4047-bdd6-8498d9552382)
 
-
+---
+ 
 # Exécution :
 
 ## Exécutez le script (le résultat s'affiche dans une page native Windows Out-GridView)
@@ -36,6 +38,8 @@ Optionnel
 
 ![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/cefbddf6-4822-4cf0-959c-9b84e663b5bf)
 
+---
+
 ## Peut s'exécuter en tâche planifiée
 ![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/44fec7cf-d6c1-4114-8e75-73ff3a9ea86d)
 
@@ -44,6 +48,8 @@ Optionnel
 ![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/6e1514da-bec8-42cc-8514-9b7ed967b7bd)
 
 ![image](https://github.com/gdupont-sdv/PowerScrapper-SDV/assets/134785181/b1db3b47-fcb0-456d-9738-452b8623da04)
+
+---
 
 # Envoi du rapport CSV aux équipes  (nécessite un serveur SMTP)
 
