@@ -51,7 +51,7 @@ Optionnel
 
 ---
 
-# Envoi du rapport CSV aux équipes  (nécessite un serveur SMTP)
+# Envoi du rapport CSV par mail (nécessite un serveur SMTP)
 
 ## Décommentez le bloc de code et renseignez les informations d'envoi du mail et le serveur SMTP, le fichier CSV est déjà en pièce jointe
 
