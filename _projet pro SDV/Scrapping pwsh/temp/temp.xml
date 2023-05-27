@@ -1,0 +1,3758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss
+  version="2.0">
+  <channel>
+    <title>MSRC Security Update Guide</title>
+    <link>https://msrc.microsoft.com/update-guide/</link>
+    <description />
+    <lastBuildDate>Tue, 23 May 2023 15:51:54 Z</lastBuildDate>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28302</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28302</link>
+      <category>CVE</category>
+      <title>CVE-2023-28302 Microsoft Message Queuing Denial of Service Vulnerability</title>
+      <description>Acknowledgement added. This is an informational change only.</description>
+      <pubDate>Tue, 23 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2721</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2721</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2721 Use after free in Navigation</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Thu, 18 May 2023 20:38:36 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2722</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2722</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2722 Use after free in Autofill UI</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Thu, 18 May 2023 20:38:39 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2723</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2723</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2723 Use after free in DevTools</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Thu, 18 May 2023 20:38:43 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2724</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2724</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2724 Type Confusion in V8</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Thu, 18 May 2023 20:38:47 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2725</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2725</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2725 Use after free in Guest View</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Thu, 18 May 2023 20:38:50 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2726</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2726</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2726 Inappropriate implementation in WebApp Installs</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Thu, 18 May 2023 20:38:53 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24902</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24902</link>
+      <category>CVE</category>
+      <title>CVE-2023-24902 Win32k Elevation of Privilege Vulnerability</title>
+      <description>Added acknowledgements. This is an informational change only.</description>
+      <pubDate>Thu, 18 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24944</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24944</link>
+      <category>CVE</category>
+      <title>CVE-2023-24944 Windows Bluetooth Driver Information Disclosure Vulnerability</title>
+      <description>Updated FAQ information. This is an informational change only.</description>
+      <pubDate>Thu, 18 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2022-41104</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41104</link>
+      <category>CVE</category>
+      <title>CVE-2022-41104 Microsoft Excel Security Feature Bypass Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products. This is an informational change only.</description>
+      <pubDate>Tue, 16 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24944</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24944</link>
+      <category>CVE</category>
+      <title>CVE-2023-24944 Windows Bluetooth Driver Information Disclosure Vulnerability</title>
+      <description>Added an acknowledgement. This is an informational change only.</description>
+      <pubDate>Fri, 12 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24940</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24940</link>
+      <category>CVE</category>
+      <title>CVE-2023-24940 Windows Pragmatic General Multicast (PGM) Denial of Service Vulnerability</title>
+      <description>Added mitigation.  This is an informational change only.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24943</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24943</link>
+      <category>CVE</category>
+      <title>CVE-2023-24943 Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability</title>
+      <description>Added mitigation.  This is an informational change only.</description>
+      <pubDate>Wed, 10 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-41121</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41121</link>
+      <category>CVE</category>
+      <title>CVE-2022-41121 Windows Graphics Component Elevation of Privilege Vulnerability</title>
+      <description>In the Security Updates table, removed Remote Desktop client for Windows Desktop as it is not affected by this vulnerability. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24881</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24881</link>
+      <category>CVE</category>
+      <title>CVE-2023-24881 Microsoft Teams Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28283</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28283</link>
+      <category>CVE</category>
+      <title>CVE-2023-28283 Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24898</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24898</link>
+      <category>CVE</category>
+      <title>CVE-2023-24898 Windows SMB Denial of Service Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24899</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24899</link>
+      <category>CVE</category>
+      <title>CVE-2023-24899 Windows Graphics Component Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24939</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24939</link>
+      <category>CVE</category>
+      <title>CVE-2023-24939 Server for NFS Denial of Service Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24900</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24900</link>
+      <category>CVE</category>
+      <title>CVE-2023-24900 Windows NTLM Security Support Provider Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24940</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24940</link>
+      <category>CVE</category>
+      <title>CVE-2023-24940 Windows Pragmatic General Multicast (PGM) Denial of Service Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24901</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24901</link>
+      <category>CVE</category>
+      <title>CVE-2023-24901 Windows NFS Portmapper Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24941</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24941</link>
+      <category>CVE</category>
+      <title>CVE-2023-24941 Windows Network File System Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24902</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24902</link>
+      <category>CVE</category>
+      <title>CVE-2023-24902 Win32k Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24942</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24942</link>
+      <category>CVE</category>
+      <title>CVE-2023-24942 Remote Procedure Call Runtime Denial of Service Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24903</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24903</link>
+      <category>CVE</category>
+      <title>CVE-2023-24903 Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24943</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24943</link>
+      <category>CVE</category>
+      <title>CVE-2023-24943 Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24905</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24905</link>
+      <category>CVE</category>
+      <title>CVE-2023-24905 Remote Desktop Client Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24944</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24944</link>
+      <category>CVE</category>
+      <title>CVE-2023-24944 Windows Bluetooth Driver Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24945</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24945</link>
+      <category>CVE</category>
+      <title>CVE-2023-24945 Windows iSCSI Target Service Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24946</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24946</link>
+      <category>CVE</category>
+      <title>CVE-2023-24946 Windows Backup Service Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24947</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24947</link>
+      <category>CVE</category>
+      <title>CVE-2023-24947 Windows Bluetooth Driver Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24948</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24948</link>
+      <category>CVE</category>
+      <title>CVE-2023-24948 Windows Bluetooth Driver Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24949</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24949</link>
+      <category>CVE</category>
+      <title>CVE-2023-24949 Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24950</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24950</link>
+      <category>CVE</category>
+      <title>CVE-2023-24950 Microsoft SharePoint Server Spoofing Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24953</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24953</link>
+      <category>CVE</category>
+      <title>CVE-2023-24953 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24954</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24954</link>
+      <category>CVE</category>
+      <title>CVE-2023-24954 Microsoft SharePoint Server Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24955</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24955</link>
+      <category>CVE</category>
+      <title>CVE-2023-24955 Microsoft SharePoint Server Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29324</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29324</link>
+      <category>CVE</category>
+      <title>CVE-2023-29324 Windows MSHTML Platform Security Feature Bypass Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29335</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29335</link>
+      <category>CVE</category>
+      <title>CVE-2023-29335 Microsoft Word Security Feature Bypass Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29336</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29336</link>
+      <category>CVE</category>
+      <title>CVE-2023-29336 Win32k Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29338</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29338</link>
+      <category>CVE</category>
+      <title>CVE-2023-29338 Visual Studio Code Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29340</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29340</link>
+      <category>CVE</category>
+      <title>CVE-2023-29340 AV1 Video Extension Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29341</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29341</link>
+      <category>CVE</category>
+      <title>CVE-2023-29341 AV1 Video Extension Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29343</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29343</link>
+      <category>CVE</category>
+      <title>CVE-2023-29343 SysInternals Sysmon for Windows Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24932</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24932</link>
+      <category>CVE</category>
+      <title>CVE-2023-24932 Secure Boot Security Feature Bypass Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28251</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28251</link>
+      <category>CVE</category>
+      <title>CVE-2023-28251 Windows Driver Revocation List Security Feature Bypass Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28290</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28290</link>
+      <category>CVE</category>
+      <title>CVE-2023-28290 Microsoft Remote Desktop app for Windows Information Disclosure Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24904</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24904</link>
+      <category>CVE</category>
+      <title>CVE-2023-24904 Windows Installer Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29325</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29325</link>
+      <category>CVE</category>
+      <title>CVE-2023-29325 Windows OLE Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29333</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29333</link>
+      <category>CVE</category>
+      <title>CVE-2023-29333 Microsoft Access Denial of Service Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29344</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29344</link>
+      <category>CVE</category>
+      <title>CVE-2023-29344 Microsoft Office Remote Code Execution Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23383</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23383</link>
+      <category>CVE</category>
+      <title>CVE-2023-23383 Service Fabric Explorer Spoofing Vulnerability</title>
+      <description>Added FAQ information. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23396</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23396</link>
+      <category>CVE</category>
+      <title>CVE-2023-23396 Microsoft Excel Denial of Service Vulnerability</title>
+      <description>Added FAQ information. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23398</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23398</link>
+      <category>CVE</category>
+      <title>CVE-2023-23398 Microsoft Excel Spoofing Vulnerability</title>
+      <description>Updated FAQ information. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24858</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24858</link>
+      <category>CVE</category>
+      <title>CVE-2023-24858 Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24911</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24911</link>
+      <category>CVE</category>
+      <title>CVE-2023-24911 Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products and added an FAQ explaining the vector string settings. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24892</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24892</link>
+      <category>CVE</category>
+      <title>CVE-2023-24892 Microsoft Edge (Chromium-based) Webview2 Spoofing Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products and added an FAQ explaining the vector string settings. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21738</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21738</link>
+      <category>CVE</category>
+      <title>CVE-2023-21738 Microsoft Office Visio Remote Code Execution Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21779</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21779</link>
+      <category>CVE</category>
+      <title>CVE-2023-21779 Visual Studio Code Remote Code Execution Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2022-41104</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41104</link>
+      <category>CVE</category>
+      <title>CVE-2022-41104 Microsoft Excel Security Feature Bypass Vulnerability</title>
+      <description>Updated one or more CVSS scores for the affected products. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-26928</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26928</link>
+      <category>CVE</category>
+      <title>CVE-2022-26928 Windows Photo Import API Elevation of Privilege Vulnerability</title>
+      <description>To comprehensively address CVE-2022-26928, Microsoft has released May 2023 security updates for all affected versions of Microsoft Windows. Microsoft strongly recommends that customers install the updates to be fully protected from the vulnerability. Customers whose systems are configured to receive automatic updates do not need to take any further action.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2013-3900</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2013-3900</link>
+      <category>CVE</category>
+      <title>CVE-2013-3900 WinVerifyTrust Signature Validation Vulnerability</title>
+      <description>In the Executive Summary, corrected information about Windows 10 and Windows 11 to state that the supporting code for this reg key was incorporated at the time of release for Windows 10 and Windows 11, so no security update is required; however, the reg key must be set. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-29900</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-29900</link>
+      <category>CVE</category>
+      <title>CVE-2022-29900 AMD: CVE-2022-29900 AMD CPU Branch Type Confusion</title>
+      <description>This document originally was associated with CVE-2022-23816.  That CVE was officially rejected by the assigning CNA in lie
+u of a different CVE which was associated with the same vulnerability.  For this reason, we updated this document to reference CVE-2022-29900.  This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2021-28452</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-28452</link>
+      <category>CVE</category>
+      <title>CVE-2021-28452 Microsoft Outlook Memory Corruption Vulnerability</title>
+      <description>Corrected Article links in the Security Updates table. This is an informational change only.</description>
+      <pubDate>Tue, 09 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2459</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2459</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2459 Inappropriate implementation in Prompts</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2460</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2460</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2460 Insufficient validation of untrusted input in Extensions</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2462</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2462</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2462 Inappropriate implementation in Prompts</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2463</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2463</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2463 Inappropriate implementation in Full Screen Mode</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2464</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2464</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2464 Inappropriate implementation in PictureInPicture</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2465</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2465</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2465 Inappropriate implementation in CORS</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2466</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2466</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2466 Inappropriate implementation in Prompts</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2467</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2467</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2467 Inappropriate implementation in Prompts</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2468</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2468</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2468 Inappropriate implementation in PictureInPicture</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2023) for more information.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29350</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29350</link>
+      <category>CVE</category>
+      <title>CVE-2023-29350 Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29354</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29354</link>
+      <category>CVE</category>
+      <title>CVE-2023-29354 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Fri, 05 May 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24935</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24935</link>
+      <category>CVE</category>
+      <title>CVE-2023-24935 Microsoft Edge (Chromium-based) Spoofing Vulnerability</title>
+      <description>Updated information to include CVSS scores. This is an informational change only.</description>
+      <pubDate>Fri, 28 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-29334</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29334</link>
+      <category>CVE</category>
+      <title>CVE-2023-29334 Microsoft Edge (Chromium-based) Spoofing Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Fri, 28 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28313</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28313</link>
+      <category>CVE</category>
+      <title>CVE-2023-28313 Microsoft Dynamics 365 Customer Voice Cross-Site Scripting Vulnerability</title>
+      <description>Corrected Article links in the Security Updates table. This is an informational change only.</description>
+      <pubDate>Thu, 27 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24934</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24934</link>
+      <category>CVE</category>
+      <title>CVE-2023-24934 Microsoft Defender Security Feature Bypass Vulnerability</title>
+      <description>Added an acknowledgement. This is an informational change only.</description>
+      <pubDate>Thu, 27 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2136</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2136</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2136 Integer overflow in Skia</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+Google is aware that an exploit for CVE-2023-2136 exists in the wild.
+</description>
+      <pubDate>Wed, 19 Apr 2023 18:29:07 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24934</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24934</link>
+      <category>CVE</category>
+      <title>Microsoft Defender Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 18 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-41113</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41113</link>
+      <category>CVE</category>
+      <title>Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 18 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23379</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23379</link>
+      <category>CVE</category>
+      <title>Microsoft Defender for IoT Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 18 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-2033</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-2033</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-2033 Type Confusion in V8</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+Google is aware that an exploit for CVE-2023-2033 exists in the wild.
+</description>
+      <pubDate>Sat, 15 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-24512</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-24512</link>
+      <category>CVE</category>
+      <title>.NET and Visual Studio Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="3.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-24480</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-24480</link>
+      <category>CVE</category>
+      <title>Outlook for Android Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21778</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21778</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics Unified Service Desk Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21807</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21807</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23379</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23379</link>
+      <category>CVE</category>
+      <title>Microsoft Defender for IoT Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23382</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23382</link>
+      <category>CVE</category>
+      <title>Azure Machine Learning Compute Instance Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21715</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21715</link>
+      <category>CVE</category>
+      <title>Microsoft Publisher Security Features Bypass Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24934</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24934</link>
+      <category>CVE</category>
+      <title>Microsoft Defender Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28231</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28231</link>
+      <category>CVE</category>
+      <title>DHCP Server Service Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-23292</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23292</link>
+      <category>CVE</category>
+      <title>Microsoft Power BI Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Fri, 14 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28260</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28260</link>
+      <category>CVE</category>
+      <title>.NET DLL Hijacking Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 13 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21727</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21727</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Wed, 12 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28314</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28314</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Wed, 12 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24860</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24860</link>
+      <category>CVE</category>
+      <title>Microsoft Defender Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Wed, 12 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28296</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28296</link>
+      <category>CVE</category>
+      <title>Visual Studio Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Wed, 12 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-43552</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-43552</link>
+      <category>CVE</category>
+      <title>Open Source Curl Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Wed, 12 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21727</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21727</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21729</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21729</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21769</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21769</link>
+      <category>CVE</category>
+      <title>Microsoft Message Queuing Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23384</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23384</link>
+      <category>CVE</category>
+      <title>Microsoft SQL Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24914</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24914</link>
+      <category>CVE</category>
+      <title>Win32k Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24931</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24931</link>
+      <category>CVE</category>
+      <title>Windows Secure Channel Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28216</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28216</link>
+      <category>CVE</category>
+      <title>Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28217</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28217</link>
+      <category>CVE</category>
+      <title>Windows Network Address Translation (NAT) Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28218</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28218</link>
+      <category>CVE</category>
+      <title>Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28221</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28221</link>
+      <category>CVE</category>
+      <title>Windows Error Reporting Service Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28222</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28222</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28285</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28285</link>
+      <category>CVE</category>
+      <title>Microsoft Office Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28287</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28287</link>
+      <category>CVE</category>
+      <title>Microsoft Publisher Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28288</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28288</link>
+      <category>CVE</category>
+      <title>Microsoft SharePoint Server Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28291</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28291</link>
+      <category>CVE</category>
+      <title>Raw Image Extension Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28292</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28292</link>
+      <category>CVE</category>
+      <title>Raw Image Extension Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28295</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28295</link>
+      <category>CVE</category>
+      <title>Microsoft Publisher Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28297</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28297</link>
+      <category>CVE</category>
+      <title>Windows Remote Procedure Call Service (RPCSS) Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28298</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28298</link>
+      <category>CVE</category>
+      <title>Windows Kernel Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28300</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28300</link>
+      <category>CVE</category>
+      <title>Azure Service Connector Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28305</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28305</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28309</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28309</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28313</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28313</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 Customer Voice Cross-Site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28314</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28314</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24893</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24893</link>
+      <category>CVE</category>
+      <title>Visual Studio Code Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21554</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21554</link>
+      <category>CVE</category>
+      <title>Microsoft Message Queuing Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23375</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23375</link>
+      <category>CVE</category>
+      <title>Microsoft ODBC and OLE DB Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24860</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24860</link>
+      <category>CVE</category>
+      <title>Microsoft Defender Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24912</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24912</link>
+      <category>CVE</category>
+      <title>Windows Graphics Component Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24924</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24924</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24883</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24883</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24925</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24925</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24884</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24884</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24926</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24926</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24885</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24885</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24927</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24927</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24886</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24886</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24928</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24928</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24887</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24887</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24929</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24929</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28219</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28219</link>
+      <category>CVE</category>
+      <title>Layer 2 Tunneling Protocol Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28220</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28220</link>
+      <category>CVE</category>
+      <title>Layer 2 Tunneling Protocol Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28223</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28223</link>
+      <category>CVE</category>
+      <title>Windows  Domain Name Service Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28224</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28224</link>
+      <category>CVE</category>
+      <title>Windows Point-to-Point Protocol over Ethernet (PPPoE) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28225</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28225</link>
+      <category>CVE</category>
+      <title>Windows NTLM Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28226</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28226</link>
+      <category>CVE</category>
+      <title>Windows Enroll Engine Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28227</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28227</link>
+      <category>CVE</category>
+      <title>Windows Bluetooth Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28228</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28228</link>
+      <category>CVE</category>
+      <title>Windows Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28229</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28229</link>
+      <category>CVE</category>
+      <title>Windows CNG Key Isolation Service Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28231</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28231</link>
+      <category>CVE</category>
+      <title>DHCP Server Service Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28232</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28232</link>
+      <category>CVE</category>
+      <title>Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28233</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28233</link>
+      <category>CVE</category>
+      <title>Windows Secure Channel Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28234</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28234</link>
+      <category>CVE</category>
+      <title>Windows Secure Channel Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28235</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28235</link>
+      <category>CVE</category>
+      <title>Windows Lock Screen Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28236</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28236</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28237</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28237</link>
+      <category>CVE</category>
+      <title>Windows Kernel Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28238</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28238</link>
+      <category>CVE</category>
+      <title>Windows Internet Key Exchange (IKE) Protocol Extensions Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28240</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28240</link>
+      <category>CVE</category>
+      <title>Windows Network Load Balancing Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28241</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28241</link>
+      <category>CVE</category>
+      <title>Windows Secure Socket Tunneling Protocol (SSTP) Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28266</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28266</link>
+      <category>CVE</category>
+      <title>Windows Common Log File System Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28243</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28243</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28267</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28267</link>
+      <category>CVE</category>
+      <title>Remote Desktop Protocol Client Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28244</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28244</link>
+      <category>CVE</category>
+      <title>Windows Kerberos Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28268</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28268</link>
+      <category>CVE</category>
+      <title>Netlogon RPC Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28269</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28269</link>
+      <category>CVE</category>
+      <title>Windows Boot Manager Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28246</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28246</link>
+      <category>CVE</category>
+      <title>Windows Registry Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28270</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28270</link>
+      <category>CVE</category>
+      <title>Windows Lock Screen Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28247</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28247</link>
+      <category>CVE</category>
+      <title>Windows Network File System Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28248</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28248</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28271</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28271</link>
+      <category>CVE</category>
+      <title>Windows Kernel Memory Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28272</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28272</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28249</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28249</link>
+      <category>CVE</category>
+      <title>Windows Boot Manager Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28250</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28250</link>
+      <category>CVE</category>
+      <title>Windows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28273</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28273</link>
+      <category>CVE</category>
+      <title>Windows Clip Service Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28274</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28274</link>
+      <category>CVE</category>
+      <title>Windows Win32k Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28252</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28252</link>
+      <category>CVE</category>
+      <title>Windows Common Log File System Driver Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28275</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28275</link>
+      <category>CVE</category>
+      <title>Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28253</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28253</link>
+      <category>CVE</category>
+      <title>Windows Kernel Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28276</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28276</link>
+      <category>CVE</category>
+      <title>Windows Group Policy Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28254</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28254</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28277</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28277</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28255</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28255</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28278</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28278</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28256</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28256</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28260</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28260</link>
+      <category>CVE</category>
+      <title>.NET DLL Hijacking Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28262</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28262</link>
+      <category>CVE</category>
+      <title>Visual Studio Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28263</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28263</link>
+      <category>CVE</category>
+      <title>Visual Studio Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28293</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28293</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28296</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28296</link>
+      <category>CVE</category>
+      <title>Visual Studio Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28299</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28299</link>
+      <category>CVE</category>
+      <title>Visual Studio Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28302</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28302</link>
+      <category>CVE</category>
+      <title>Microsoft Message Queuing Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28304</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28304</link>
+      <category>CVE</category>
+      <title>Microsoft ODBC and OLE DB Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28306</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28306</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28307</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28307</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28308</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28308</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28311</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28311</link>
+      <category>CVE</category>
+      <title>Microsoft Word Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28312</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28312</link>
+      <category>CVE</category>
+      <title>Azure Machine Learning Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28285</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28285</link>
+      <category>CVE</category>
+      <title>Microsoft Office Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28313</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28313</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 Customer Voice Cross-Site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="3.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-43552</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-43552</link>
+      <category>CVE</category>
+      <title>Open Source Curl Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-38023</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-38023</link>
+      <category>CVE</category>
+      <title>Netlogon RPC Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="3.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-34716</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34716</link>
+      <category>CVE</category>
+      <title>.NET Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-26923</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26923</link>
+      <category>CVE</category>
+      <title>Active Directory Domain Services Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2013-3900</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2013-3900</link>
+      <category>CVE</category>
+      <title>WinVerifyTrust Signature Validation Vulnerability</title>
+      <description>Why is Microsoft republishing a CVE from 2013?
+We are republishing CVE-2013-3900 in the Security Update Guide to update the Security Updates table and to inform customers that the EnableCertPaddingCheck is available in all currently supported versions of Windows 10 and Windows 11. While the format is different from the original CVE published in 2013, the information herein remains unchanged from the original text published on December 10, 2013.
+Microsoft does not plan to enforce the stricter verification behavior as a default functionality on supported releases of Microsoft Windows. This behavior remains available as an opt-in feature via reg key setting, and is available on supported editions of Windows released since December 10, 2013. This includes all currently supported versions of Windows 10 and Windows 11. The reg key already exists in Window 10 and Window 11, so no security update is required but the reg key must be set. See the Security Updates table for the list of affected software.
+Vulnerability Description
+A remote code execution vulnerability exists in the way that the WinVerifyTrust function handles Windows Authenticode signature verification for portable executable (PE) files. An anonymous attacker could exploit the vulnerability by modifying an existing signed executable file to leverage unverified portions of the file in such a way as to add malicious code to the file without invalidating the signature. An attacker who successfully exploited this vulnerability could take complete control of an affected system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.
+If a user is logged on with administrative user rights, an attacker who successfully exploited this vulnerability could take complete control of an affected system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights. Users whose accounts are configured to have fewer user rights on the system could be less impacted than users who operate with administrative user rights.
+Exploitation of this vulnerability requires that a user or application run or install a specially crafted, signed PE file. An attacker could modify an existing signed file to include malicious code without invalidating the signature. This code would execute in the context of the privilege in which the signed PE file was launched.
+In an email attack scenario, an attacker could exploit this vulnerability by sending a user an email message containing the specially crafted PE file and convincing the user to open the file.
+In a web-based attack scenario, an attacker would have to host a website that contains a specially crafted PE file. In addition, compromised websites and websites that accept or host user-provided content could contain specially crafted content that could be used to exploit this vulnerability. An attacker would have no way to force users to visit a website that is hosting the specially crafted PE file. Instead, an attacker would have to convince users to visit the website, typically by getting them to click a link in an email message or Instant Messenger message that directs them to the attacker's website.
+Update History
+On December 10, 2013, Microsoft released an update for all supported releases of Microsoft Windows that changes how signatures are verified for binaries signed with the Windows Authenticode signature format. This change can be enabled on an opt-in basis. When enabled, the new behavior for Windows Authenticode signature verification will no longer allow extraneous information in the WIN_CERTIFICATE structure, and Windows will no longer recognize non-compliant binaries as signed. On July 29, 2014 Microsoft announced that it no longer plans to enforce the stricter verification behavior as a default functionality on supported releases of Microsoft Windows. To this date, it remains available as an opt-in feature in all currently supported releases of Microsoft Windows.
+Recommendation. Microsoft recommends that executables authors consider conforming all signed binaries to the new verification standard by ensuring that they contain no extraneous information in the WIN_CERTIFICATE structure. Microsoft also recommends that customers appropriately test this change to evaluate how it will behave in their environments. Please see the Suggested Actions section for more information.
+</description>
+      <pubDate>Tue, 11 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1810</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1810</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1810 Heap buffer overflow in Visuals</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1811</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1811</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1811 Use after free in Frames</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1812</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1812</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1812 Out of bounds memory access in DOM Bindings</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1813</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1813</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1813 Inappropriate implementation in Extensions</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1814</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1814</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1814 Insufficient validation of untrusted input in Safe Browsing</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1815</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1815</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1815 Use after free in Networking APIs</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1816</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1816</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1816 Incorrect security UI in Picture In Picture</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1817</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1817</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1817 Insufficient policy enforcement in Intents</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1818</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1818</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1818 Use after free in Vulkan</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1819</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1819</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1819 Out of bounds read in Accessibility</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1820</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1820</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1820 Heap buffer overflow in Browser History</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1821</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1821</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1821 Inappropriate implementation in WebShare</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1822</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1822</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1822 Incorrect security UI in Navigation</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1823</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1823</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1823 Inappropriate implementation in FedCM</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28284</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28284</link>
+      <category>CVE</category>
+      <title>Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24935</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24935</link>
+      <category>CVE</category>
+      <title>Microsoft Edge (Chromium-based) Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28301</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28301</link>
+      <category>CVE</category>
+      <title>Microsoft Edge (Chromium-based) Tampering Vulnerability</title>
+      <description />
+      <pubDate>Thu, 06 Apr 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23413</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23413</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 30 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24867</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24867</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 30 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24907</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24907</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 30 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24909</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24909</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 30 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24876</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24876</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 30 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28303</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28303</link>
+      <category>CVE</category>
+      <title>Windows Snipping Tool Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Thu, 30 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="3.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21808</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21808</link>
+      <category>CVE</category>
+      <title>.NET and Visual Studio Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Wed, 29 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21722</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21722</link>
+      <category>CVE</category>
+      <title>.NET Framework Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Wed, 29 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-33646</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-33646</link>
+      <category>CVE</category>
+      <title>Azure Batch Node Agent Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Wed, 29 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1528</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1528</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1528 Use after free in Passwords</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1529</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1529</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1529 Out of bounds memory access in WebHID</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1530</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1530</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1530 Use after free in PDF</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1531</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1531</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1531 Use after free in ANGLE</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1532</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1532</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1532 Out of bounds read in GPU Video</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1533</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1533</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1533 Use after free in WebProtect</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1534</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1534</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1534 Out of bounds read in ANGLE</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28261</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28261</link>
+      <category>CVE</category>
+      <title>Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-28286</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28286</link>
+      <category>CVE</category>
+      <title>Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Fri, 24 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2022-37958</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37958</link>
+      <category>CVE</category>
+      <title>SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-41104</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41104</link>
+      <category>CVE</category>
+      <title>Microsoft Excel Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2022-47211</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-47211</link>
+      <category>CVE</category>
+      <title>Microsoft Office Graphics Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21815</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21815</link>
+      <category>CVE</category>
+      <title>Visual Studio Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21722</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21722</link>
+      <category>CVE</category>
+      <title>.NET Framework Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23381</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23381</link>
+      <category>CVE</category>
+      <title>Visual Studio Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23389</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23389</link>
+      <category>CVE</category>
+      <title>Microsoft Defender Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Thu, 16 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23397</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23397</link>
+      <category>CVE</category>
+      <title>Microsoft Outlook Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Wed, 15 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="52.0000000000">
+      <guid
+        isPermaLink="false">ADV990001</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/ADV990001</link>
+      <category>ADV</category>
+      <title>Latest Servicing Stack Updates</title>
+      <description>This is a list of the latest servicing stack updates for each operating system.  This list will be updated whenever a new servicing stack update is released. It is important to install the latest servicing stack update.
+</description>
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23383</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23383</link>
+      <category>CVE</category>
+      <title>Service Fabric Explorer Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23385</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23385</link>
+      <category>CVE</category>
+      <title>Windows Point-to-Point Protocol over Ethernet (PPPoE) Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23388</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23388</link>
+      <category>CVE</category>
+      <title>Windows Bluetooth Driver Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23389</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23389</link>
+      <category>CVE</category>
+      <title>Microsoft Defender Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23391</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23391</link>
+      <category>CVE</category>
+      <title>Office for Android Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23392</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23392</link>
+      <category>CVE</category>
+      <title>HTTP Protocol Stack Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23393</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23393</link>
+      <category>CVE</category>
+      <title>Windows BrokerInfrastructure Service Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23394</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23394</link>
+      <category>CVE</category>
+      <title>Client Server Run-Time Subsystem (CSRSS) Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23395</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23395</link>
+      <category>CVE</category>
+      <title>Microsoft SharePoint Server Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23396</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23396</link>
+      <category>CVE</category>
+      <title>Microsoft Excel Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23397</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23397</link>
+      <category>CVE</category>
+      <title>Microsoft Outlook Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23398</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23398</link>
+      <category>CVE</category>
+      <title>Microsoft Excel Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23399</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23399</link>
+      <category>CVE</category>
+      <title>Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23403</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23403</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24856</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24856</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24919</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24919</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24879</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24879</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24920</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24920</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24921</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24921</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24922</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24922</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24923</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24923</link>
+      <category>CVE</category>
+      <title>Microsoft OneDrive for Android Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24882</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24882</link>
+      <category>CVE</category>
+      <title>Microsoft OneDrive for Android Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24930</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24930</link>
+      <category>CVE</category>
+      <title>Microsoft OneDrive for MacOS Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24891</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24891</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21708</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21708</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-22490</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-22490</link>
+      <category>CVE</category>
+      <title>GitHub: CVE-2023-22490 mingit Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2022-43552</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-43552</link>
+      <category>CVE</category>
+      <title>Open Source Curl Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23400</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23400</link>
+      <category>CVE</category>
+      <title>Windows DNS Server Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23401</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23401</link>
+      <category>CVE</category>
+      <title>Windows Media Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23402</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23402</link>
+      <category>CVE</category>
+      <title>Windows Media Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23404</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23404</link>
+      <category>CVE</category>
+      <title>Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23405</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23405</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23406</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23406</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23407</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23407</link>
+      <category>CVE</category>
+      <title>Windows Point-to-Point Protocol over Ethernet (PPPoE) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23408</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23408</link>
+      <category>CVE</category>
+      <title>Azure Apache Ambari Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23409</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23409</link>
+      <category>CVE</category>
+      <title>Client Server Run-Time Subsystem (CSRSS) Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23410</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23410</link>
+      <category>CVE</category>
+      <title>Windows HTTP.sys Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23411</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23411</link>
+      <category>CVE</category>
+      <title>Windows Hyper-V Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23412</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23412</link>
+      <category>CVE</category>
+      <title>Windows Accounts Picture Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23413</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23413</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23414</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23414</link>
+      <category>CVE</category>
+      <title>Windows Point-to-Point Protocol over Ethernet (PPPoE) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23415</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415</link>
+      <category>CVE</category>
+      <title>Internet Control Message Protocol (ICMP) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23416</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23416</link>
+      <category>CVE</category>
+      <title>Windows Cryptographic Services Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23417</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23417</link>
+      <category>CVE</category>
+      <title>Windows Partition Management Driver Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23418</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23418</link>
+      <category>CVE</category>
+      <title>Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23419</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23419</link>
+      <category>CVE</category>
+      <title>Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23420</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23420</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23421</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23421</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23422</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23422</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23423</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23423</link>
+      <category>CVE</category>
+      <title>Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24857</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24857</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24858</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24858</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24859</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24859</link>
+      <category>CVE</category>
+      <title>Windows Internet Key Exchange (IKE) Extension Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24861</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24861</link>
+      <category>CVE</category>
+      <title>Windows Graphics Component Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24862</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24862</link>
+      <category>CVE</category>
+      <title>Windows Secure Channel Denial of Service Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24863</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24863</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24864</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24864</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24865</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24865</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24866</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24866</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24906</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24906</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24867</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24867</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24907</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24907</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24868</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24868</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24908</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24908</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24869</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24869</link>
+      <category>CVE</category>
+      <title>Remote Procedure Call Runtime Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24909</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24909</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24910</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24910</link>
+      <category>CVE</category>
+      <title>Windows Graphics Component Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24870</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24870</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24911</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24911</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Information Disclosure Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24871</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24871</link>
+      <category>CVE</category>
+      <title>Windows Bluetooth Service Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24872</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24872</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24913</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24913</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1017</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1017</link>
+      <category>CVE</category>
+      <title>CERT/CC: CVE-2023-1017 TPM2.0 Module Library Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24876</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24876</link>
+      <category>CVE</category>
+      <title>Microsoft PostScript and PCL6 Class Printer Driver Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24880</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24880</link>
+      <category>CVE</category>
+      <title>Windows SmartScreen Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23946</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23946</link>
+      <category>CVE</category>
+      <title>GitHub: CVE-2023-23946 mingit Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-22743</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-22743</link>
+      <category>CVE</category>
+      <title>GitHub: CVE-2023-22743 Git for Windows Installer Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-23618</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23618</link>
+      <category>CVE</category>
+      <title>GitHub: CVE-2023-23618 Git for Windows Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24890</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24890</link>
+      <category>CVE</category>
+      <title>Microsoft OneDrive for iOS Security Feature Bypass Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-24892</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24892</link>
+      <category>CVE</category>
+      <title>Microsoft Edge (Chromium-based) Webview2 Spoofing Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1018</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1018</link>
+      <category>CVE</category>
+      <title>CERT/CC: CVE-2023-1018 TPM2.0 Module Library Elevation of Privilege Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-23257</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23257</link>
+      <category>CVE</category>
+      <title>Windows Hyper-V Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="4.0000000000">
+      <guid
+        isPermaLink="false">CVE-2021-26414</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26414</link>
+      <category>CVE</category>
+      <title>Windows DCOM Server Security Feature Bypass</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-41127</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41127</link>
+      <category>CVE</category>
+      <title>Microsoft Dynamics NAV and Microsoft Dynamics 365 Business Central (On Premises) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-23816</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23816</link>
+      <category>CVE</category>
+      <title>AMD: CVE-2022-23816 AMD CPU Branch Type Confusion</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2022-23825</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23825</link>
+      <category>CVE</category>
+      <title>AMD: CVE-2022-23825 AMD CPU Branch Type Confusion</title>
+      <description />
+      <pubDate>Tue, 14 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1213</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1213</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1213 Use after free in Swiftshader</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1214</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1214</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1214 Type Confusion in V8</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1215</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1215</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1215 Type Confusion in CSS</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1216</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1216</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1216 Use after free in DevTools</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1217</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1217</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1217 Stack buffer overflow in Crash reporting</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1218</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1218</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1218 Use after free in WebRTC</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1219</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1219</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1219 Heap buffer overflow in Metrics</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1220</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1220</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1220 Heap buffer overflow in UMA</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1221</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1221</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1221 Insufficient policy enforcement in Extensions API</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1222</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1222</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1222 Heap buffer overflow in Web Audio API</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1223</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1223</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1223 Insufficient policy enforcement in Autofill</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1224</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1224</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1224 Insufficient policy enforcement in Web Payments API</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1228</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1228</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1228 Insufficient policy enforcement in Intents</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1229</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1229</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1229 Inappropriate implementation in Permission prompts</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1230</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1230</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1230 Inappropriate implementation in WebApp Installs</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1231</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1231</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1231 Inappropriate implementation in Autofill</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1232</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1232</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1232 Insufficient policy enforcement in Resource Timing</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1233</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1233</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1233 Insufficient policy enforcement in Resource Timing</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1234</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1234</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1234 Inappropriate implementation in Intents</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1235</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1235</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1235 Type Confusion in DevTools</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-1236</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-1236</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-1236 Inappropriate implementation in Internals</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Mon, 13 Mar 2023 07:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21805</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21805</link>
+      <category>CVE</category>
+      <title>Windows MSHTML Platform Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 02 Mar 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0927</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0927</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0927 Use after free in Web Payments API</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0928</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0928</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0928 Use after free in SwiftShader</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0929</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0929</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0929 Use after free in Vulkan</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0930</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0930</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0930 Heap buffer overflow in Video</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0931</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0931</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0931 Use after free in Video</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0932</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0932</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0932 Use after free in WebRTC</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0933</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0933</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0933 Integer overflow in PDF</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0941</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0941</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2023-0941 Use after free in Prompts</title>
+      <description>This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+</description>
+      <pubDate>Sat, 25 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21568</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21568</link>
+      <category>CVE</category>
+      <title>Microsoft SQL Server Integration Service (VS extension) Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-21716</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21716</link>
+      <category>CVE</category>
+      <title>Microsoft Word Remote Code Execution Vulnerability</title>
+      <description />
+      <pubDate>Thu, 23 Feb 2023 08:00:00 Z</pubDate>
+    </item>
+    <item
+      Revision="2.0000000000">
+      <guid
+        isPermaLink="false">CVE-2023-0286</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-0286</link>
+      <category>CVE</category>
+      <title />
+      <description />
+      <pubDate>Thu, 23 Feb 2023 00:08:44 Z</pubDate>
+    </item>
+  </channel>
+</rss>
