@@ -13,7 +13,8 @@
 .Auteur
    Guillaume DUPONT
 
-   gdupont-sdv sur GitHub
+   Github : gdupont-sdv 
+   
 #>
 
 clear
