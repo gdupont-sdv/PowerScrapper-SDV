@@ -3,38 +3,37 @@
    Récupération de nouvelles CVE à partir d'un flux RSS
 
 .DESCRIPTION
-   Description détaillée
+   -Script qui récupère un flux RSS pour le parser dans un fichier CSV
+   -En tâche planifiée sur un serveur afin de s'éxécuter de manière hebdomadaire
+   -Optionnel : Envoi du CSV par mail (nécessite un serveur SMTP)
+
 .EXAMPLE
    Purple Team suivi du patching
-.EXAMPLE
-   Autre exemple de l’usage de cette applet de commande
 
 .Auteur
    Guillaume DUPONT
+
+   gdupont-sdv sur GitHub
 #>
 
 clear
 
-$date = Get-Date -Format ddMMyy
-
-$csv_out_file = "$PSScriptRoot\export_csv\$($date)_cve.csv"
-
-
 #CVE details RSS (par défaut) vous pouvez remplacer l'url de cette variable par le flux RSS de votre choix
-#Exemple
-##Microsoft Security Update Guide RSS
-#'https://api.msrc.microsoft.com/update-guide/rss'
 $url_rss_feed = 'https://www.cvedetails.com/vulnerability-feed.php?vendor_id=0&product_id=0&version_id=0&orderby=1&cvssscoremin=0'
 
-
 #Exemple
 ##Microsoft Security Update Guide RSS
 #'https://api.msrc.microsoft.com/update-guide/rss'
+
+# Date
+$date = Get-Date -Format ddMMyy
+
+# Chemin du csv
+$csv_out_file = "$PSScriptRoot\export_csv\$($date)_CVE.csv"
 
 
 # Invoke-WebRequest équivalent de curl en powershell
 $temp = Invoke-WebRequest $url_rss_feed -OutFile "$PSScriptRoot/temp/temp.xml"
-
 
 
 # Déclarer variable et le type xml
@@ -66,13 +65,14 @@ $Objects_in_feed | Out-GridView
 <#
 #$creds = Get-Credential       #Décommentez si authentification requise sur votre serveur SMTP
 
-$smtp_server = ''    # mettre votre SMTP Server
-$from = ''           # adresse d'envoi
-$to = ''             # adresse de destination
-$Attachments = ''    # chemin du fichier à joindre au mail
+$smtp_server = ''               # IP de votre SMTP Server
+$from = ''                      # adresse d'envoi
+$to = ''                        # adresse de destination
+$Attachments = $csv_out_file    # chemin du fichier à joindre au mail
 
-$object = "test"     # objet du mail
-$body = "test"       # corps du mail
+
+$object = ""     # objet du mail
+$body = ""       # corps du mail
 
 
 Send-MailMessage -From $from -To $to -SmtpServer $smtp_server -Subject $object -Body $body -Attachments $Attachments #-Credential $creds
