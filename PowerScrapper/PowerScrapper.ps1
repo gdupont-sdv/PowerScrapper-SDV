@@ -22,11 +22,11 @@ clear
 $url_rss_feed = 'https://www.cvedetails.com/vulnerability-feed.php?vendor_id=0&product_id=0&version_id=0&orderby=1&cvssscoremin=0'
 
 #Exemple
-##Microsoft Security Update Guide RSS
+#Microsoft Security Update Guide RSS
 #'https://api.msrc.microsoft.com/update-guide/rss'
 
 # Date
-$date = Get-Date -Format ddMMyy
+$date = Get-Date -Format ddMMyy_hhmm
 
 # Chemin du csv
 $csv_out_file = "$PSScriptRoot\export_csv\$($date)_CVE.csv"
