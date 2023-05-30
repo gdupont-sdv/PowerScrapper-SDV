@@ -11,7 +11,7 @@
    Purple Team suivi du patching
 
 .Auteur
-   Guillaume DUPONT
+   G. DUPONT
 
    Github : gdupont-sdv 
    
